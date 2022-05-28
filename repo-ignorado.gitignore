@@ -1,0 +1,7 @@
+/ContenidoSecreto/
+/config.php
+/assets/*.pdf
+/.txt
+**/assets/media/images/!-system*
+/-prueba
+/-loca
